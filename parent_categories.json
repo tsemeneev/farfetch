@@ -1,0 +1,345 @@
+[
+  {
+    "id": 136309,
+    "name": "Слиперы",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "268b6c5c-8e77-4118-892a-0153a8630cd2"
+  },
+  {
+    "id": 198951,
+    "name": "туфли-лодочки с",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "f932577b-7dc2-4f9d-a259-b9cf575fbda3"
+  },
+  {
+    "id": 137174,
+    "name": "Кроссовки",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "d0f40000-3a26-000d-2319-08d56894bc61"
+  },
+  {
+    "id": 139355,
+    "name": "Аксессуары для обуви",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "62925dc5-7982-49da-b63f-27f3ad48b668"
+  },
+  {
+    "id": 136359,
+    "name": "Лоферы",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "c5520288-b633-4d17-a5a0-0153a8630678"
+  },
+  {
+    "id": 136331,
+    "name": "Рубашки",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "8f4df621-1b49-492e-ab82-0153a86309e4"
+  },
+  {
+    "id": 189443,
+    "name": "Юбки",
+    "parentId": 136330,
+    "gender": "Woman",
+    "uuid": "2d75d2f1-a826-47c1-9e08-a3f8ef62ea0b"
+  },
+  {
+    "id": 136043,
+    "name": "Деним",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "a648d52c-7cbc-4adf-ac70-0153a86315e5"
+  },
+  {
+    "id": 136021,
+    "name": "Тейлоринг",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "442824cc-6394-416a-bf8e-0153a863148b"
+  },
+  {
+    "id": 136355,
+    "name": "Топсайдеры",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "fa927e99-5df5-4273-9385-0153a86305db"
+  },
+  {
+    "id": 136455,
+    "name": "Брючные комбинезоны",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "36b60d1a-5302-48bb-86cc-0153a8634dc9"
+  },
+  {
+    "id": 136226,
+    "name": "Куртки",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "c847aedb-8a9e-4d81-8ba1-0153a863115b"
+  },
+  {
+    "id": 136340,
+    "name": "Костюмы",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "f1781bb8-7875-4442-be19-0153a8630b2d"
+  },
+  {
+    "id": 136293,
+    "name": "Пляжная одежда",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "bbb01954-f808-48b9-a060-0153a8630b9a"
+  },
+  {
+    "id": 136045,
+    "name": "Шорты",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "52c5b68e-ef74-4eda-9241-0153a8631614"
+  },
+  {
+    "id": 198954,
+    "name": "сандалии",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "ef34e27d-3720-4f36-8a17-6ca386fd75ea"
+  },
+  {
+    "id": 198961,
+    "name": "Ботинки",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "a73493b6-a3c5-4cab-91e9-f561c22fb337"
+  },
+  {
+    "id": 136306,
+    "name": "Лоферы",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "4ed9a043-0a84-4fbc-bcca-0153a8630c46"
+  },
+  {
+    "id": 136335,
+    "name": "Куртки и пиджаки",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "f04337a5-a71a-4452-947f-0153a8630a71"
+  },
+  {
+    "id": 136339,
+    "name": "Шорты",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "fd634cba-64fa-4c3c-8334-0153a8630b0d"
+  },
+  {
+    "id": 136342,
+    "name": "Пляжная одежда",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "54ac66b0-51dd-4af9-8a81-0153a8630b7b"
+  },
+  {
+    "id": 136338,
+    "name": "Брюки",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "16172473-036d-4531-ae16-0153a8630aee"
+  },
+  {
+    "id": 136337,
+    "name": "Деним",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "35bbca80-cc7e-4e1f-b4a6-0153a8630ab0"
+  },
+  {
+    "id": 136336,
+    "name": "Пальто",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "27260e2a-c7ce-4ea3-97a5-0153a8630a90"
+  },
+  {
+    "id": 136253,
+    "name": "Комбинезоны и ромперы",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "2da1d118-7c17-438e-aa76-0153a8631199"
+  },
+  {
+    "id": 135983,
+    "name": "Топы",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "19f9e2c9-3942-44d0-b996-0153a8631207"
+  },
+  {
+    "id": 198938,
+    "name": "Мюли",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "4d892baa-acfc-4515-80c2-5d4cdfb428b9"
+  },
+  {
+    "id": 135981,
+    "name": "Брюки",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "ea3d662f-4fca-4e45-a5c9-0153a86311e8"
+  },
+  {
+    "id": 136227,
+    "name": "Пальто",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "fd40e6bb-3931-409f-9525-0153a863117a"
+  },
+  {
+    "id": 136334,
+    "name": "Свитеры и трикотаж",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "6665fef9-b588-47ad-9a1b-0153a8630a52"
+  },
+  {
+    "id": 136333,
+    "name": "Рубашки поло",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "3c0668a9-1d09-4a29-b0d5-0153a8630a33"
+  },
+  {
+    "id": 136245,
+    "name": "Свитеры и трикотаж",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "ac33d54f-4960-46ce-ac8a-0153a863113c"
+  },
+  {
+    "id": 136332,
+    "name": "Футболки и майки",
+    "parentId": 136330,
+    "gender": "Man",
+    "uuid": "2d46be2f-ca16-4ce9-b5a3-0153a8630a04"
+  },
+  {
+    "id": 135979,
+    "name": "Платья",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "f3e7e61c-9122-4bc6-a9a8-0153a86311c8"
+  },
+  {
+    "id": 135985,
+    "name": "Юбки",
+    "parentId": 135967,
+    "gender": "Woman",
+    "uuid": "a80eb7a7-98f0-4d78-902e-0153a8631236"
+  },
+  {
+    "id": 136487,
+    "name": "Монки",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "341754af-7ddd-4c53-a54f-0153a862f241"
+  },
+  {
+    "id": 139356,
+    "name": "Аксессуары для обуви",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "15762d2b-feae-4053-8716-d26c0692e395"
+  },
+  {
+    "id": 198957,
+    "name": "кроссовки",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "701a81f5-9135-4a48-b9a3-18b17e117cef"
+  },
+  {
+    "id": 136360,
+    "name": "Сандалии",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "8d9769b7-734d-4145-9847-0153a8630697"
+  },
+  {
+    "id": 198967,
+    "name": "Мюли",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "51bde3b7-03cd-4592-807a-61bb2939c0e4"
+  },
+  {
+    "id": 198948,
+    "name": "эспадрильи",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "3a43c76d-43fe-4429-b2ca-70d84bb271fe"
+  },
+  {
+    "id": 136356,
+    "name": "Эспадрильи",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "11c63c77-9249-4d28-9acb-0153a863060a"
+  },
+  {
+    "id": 135996,
+    "name": "Слиперы",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "329f9dd9-b180-450c-95ab-0153a8631265"
+  },
+  {
+    "id": 198968,
+    "name": "Туфли дерби и оксфорды",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "1b392b93-34a3-43aa-b046-ce3c5e1608fc"
+  },
+  {
+    "id": 136357,
+    "name": "Шлепанцы",
+    "parentId": 135968,
+    "gender": "Man",
+    "uuid": "0dcfe25e-db7d-4d2d-9d3f-0153a863062a"
+  },
+  {
+    "id": 136303,
+    "name": "Туфли дерби и оксфорды",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "28e9ba04-3337-4035-bfa3-0153a8630bd8"
+  },
+  {
+    "id": 136305,
+    "name": "Шлепанцы",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "bf740e36-565a-45fa-8ef4-0153a8630c17"
+  },
+  {
+    "id": 136484,
+    "name": "Балетки",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "f90638cb-2ddf-43e1-9964-0153a862f203"
+  },
+  {
+    "id": 198936,
+    "name": "Boots",
+    "parentId": 136301,
+    "gender": "Woman",
+    "uuid": "a8cf1ecf-295e-4043-96fd-be620f29f399"
+  }
+]
